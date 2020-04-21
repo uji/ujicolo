@@ -13,11 +13,11 @@
   let s:guishade7 = "#868ea2"
   let s:guiaccent0 = "#ffff00"
   let s:guiaccent1 = "#d7ffff"
-  let s:guiaccent2 = "#d7ffaf"
+  let s:guiaccent2 = "#005faf"
   let s:guiaccent3 = "#80ffff"
   let s:guiaccent4 = "#0087af"
   let s:guiaccent5 = "#88bff7"
-  let s:guiaccent6 = "#005faf"
+  let s:guiaccent6 = "#d7ffaf"
   let s:guiaccent7 = "#afffff"
   let s:ctermshade0 = 233
   let s:ctermshade1 = 235
@@ -29,11 +29,11 @@
   let s:ctermshade7 = 246
   let s:ctermaccent0 = 226
   let s:ctermaccent1 = 195
-  let s:ctermaccent2 = 193
+  let s:ctermaccent2 = 31
   let s:ctermaccent3 = 159
   let s:ctermaccent4 = 37
   let s:ctermaccent5 = 153
-  let s:ctermaccent6 = 31
+  let s:ctermaccent6 = 193
   let s:ctermaccent7 = 159
   
   endif
