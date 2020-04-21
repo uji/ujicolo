@@ -1,5 +1,5 @@
 # ujicolo.vim
-ujicolo is original colorschema for Vim 
+ujicolo is original colorscheme of Vim 
 
 <img width="1267" alt="スクリーンショット 2020-04-21 23 45 26" src="https://user-images.githubusercontent.com/49834542/79880230-b34ecc00-842a-11ea-8da1-4ade30d0d163.png">
 
