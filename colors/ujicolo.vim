@@ -1,45 +1,45 @@
 
 
-  
+
   if &background == 'dark'
-    
+
   let s:guishade0 = "#121212"
-  let s:guishade1 = "#232427"
-  let s:guishade2 = "#33353b"
-  let s:guishade3 = "#444750"
-  let s:guishade4 = "#545964"
-  let s:guishade5 = "#656b79"
-  let s:guishade6 = "#757c8d"
-  let s:guishade7 = "#868ea2"
+  let s:guishade1 = "#2e3434"
+  let s:guishade2 = "#4a5656"
+  let s:guishade3 = "#667878"
+  let s:guishade4 = "#839999"
+  let s:guishade5 = "#9fbbbb"
+  let s:guishade6 = "#bbdddd"
+  let s:guishade7 = "#d7ffff"
   let s:guiaccent0 = "#ffff00"
-  let s:guiaccent1 = "#d7ffff"
+  let s:guiaccent1 = "#87ffff"
   let s:guiaccent2 = "#005faf"
   let s:guiaccent3 = "#80ffff"
   let s:guiaccent4 = "#0087af"
   let s:guiaccent5 = "#88bff7"
-  let s:guiaccent6 = "#d7ffaf"
-  let s:guiaccent7 = "#afffff"
+  let s:guiaccent6 = "#5fafff"
+  let s:guiaccent7 = "#5fffff"
   let s:ctermshade0 = 233
-  let s:ctermshade1 = 235
-  let s:ctermshade2 = 59
-  let s:ctermshade3 = 238
-  let s:ctermshade4 = 240
-  let s:ctermshade5 = 242
-  let s:ctermshade6 = 244
-  let s:ctermshade7 = 246
+  let s:ctermshade1 = 59
+  let s:ctermshade2 = 239
+  let s:ctermshade3 = 243
+  let s:ctermshade4 = 246
+  let s:ctermshade5 = 249
+  let s:ctermshade6 = 252
+  let s:ctermshade7 = 195
   let s:ctermaccent0 = 226
-  let s:ctermaccent1 = 195
+  let s:ctermaccent1 = 159
   let s:ctermaccent2 = 31
   let s:ctermaccent3 = 159
   let s:ctermaccent4 = 37
   let s:ctermaccent5 = 153
-  let s:ctermaccent6 = 193
-  let s:ctermaccent7 = 159
-  
-  endif
-  
+  let s:ctermaccent6 = 111
+  let s:ctermaccent7 = 123
 
-  
+  endif
+
+
+
 
   highlight clear
   syntax reset
@@ -217,4 +217,4 @@
 
   unlet s:guishade0 s:guishade1 s:guishade2 s:guishade3 s:guishade4 s:guishade5 s:guishade6 s:guishade7 s:guiaccent0 s:guiaccent1 s:guiaccent2 s:guiaccent3 s:guiaccent4 s:guiaccent5 s:guiaccent6 s:guiaccent7
   unlet s:ctermshade0 s:ctermshade1 s:ctermshade2 s:ctermshade3 s:ctermshade4 s:ctermshade5 s:ctermshade6 s:ctermshade7 s:ctermaccent0 s:ctermaccent1 s:ctermaccent2 s:ctermaccent3 s:ctermaccent4 s:ctermaccent5 s:ctermaccent6 s:ctermaccent7
-  
+
